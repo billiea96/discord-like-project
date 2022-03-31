@@ -27,7 +27,7 @@ function Header() {
       <a href="/">
         <img
           referrerPolicy="no-referrer"
-          src="/src/assets/discord.svg"
+          src="/images/discord.svg"
           className="w-32 h-12 object-contain"
           alt=""
         />

@@ -29,13 +29,13 @@ function Hero() {
         <div className="flex-grow">
           <img
             referrerPolicy="no-referrer"
-            src="/src/assets/hero.svg"
+            src="/images/hero.svg"
             alt=""
             className="absolute -left-36 mt-16 sm:-left-44 md:hidden"
           />
           <img
             referrerPolicy="no-referrer"
-            src="/src/assets/hero-2.svg"
+            src="/images/hero-2.svg"
             alt=""
             className="hidden md:inline absolute"
           />
