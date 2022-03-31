@@ -26,9 +26,10 @@ function Header() {
     <header className="flex items-center justify-between py-4 px-6 bg-discord_blue">
       <a href="/">
         <img
-          src="/src/assets/discord.svg"
+          src="https://rb.gy/it5msp"
           className="w-32 h-12 object-contain"
           alt=""
+          referrerPolicy="no-referrer"
         />
       </a>
       <div className="hidden lg:flex space-x-6 text-white">
