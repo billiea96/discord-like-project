@@ -8,4 +8,7 @@ export default defineConfig({
     port: 3031,
     host: true,
   },
+  build: {
+    chunkSizeWarningLimit: 250000,
+  },
 });
